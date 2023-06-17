@@ -8,7 +8,7 @@
 
     "update": true,
 
-    "link": "taki_link",
+    "link": "rubika://l.rubika.ir/taki_link",
 
     "mode": true
 
