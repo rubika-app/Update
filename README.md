@@ -6,11 +6,11 @@
 
     "text": "برای نصب جدیدترین نسخه برنامه دکمه زیر رو بزنید",
 
-    "update": true,
+    "update": false,
 
     "link": "rubika://l.rubika.ir/taki_link",
 
-    "mode": true
+    "mode": false
 
   }
 
