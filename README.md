@@ -8,7 +8,7 @@
 
     "update": true,
 
-    "link": "",
+    "link": "https://www.dl.farsroid.com/ap/Smart-AudioBook-Player-9.9.1(www.farsroid.com).apk",
 
     "mode": true
 
