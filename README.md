@@ -8,7 +8,7 @@
 
     "update": true,
 
-    "link": "taki_link",
+    "link": taki_link,
 
     "mode": true
 
