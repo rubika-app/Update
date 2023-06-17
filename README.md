@@ -10,7 +10,7 @@
 
     "link": "rubika://l.rubika.ir/taki_link",
 
-    "mode": false
+    "mode": true
 
   }
 
